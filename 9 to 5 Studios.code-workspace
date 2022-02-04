@@ -1,0 +1,14 @@
+{
+    "folders": [
+		{
+			"path": "..\\ecombackend"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\tradeflows"
+		}
+	],
+    "settings": {}
+}
